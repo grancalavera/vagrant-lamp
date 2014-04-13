@@ -1,4 +1,3 @@
-vagrant-lamp
-============
-
 Simple LAMP VM
+=======
+vagrant-dev-lamp
